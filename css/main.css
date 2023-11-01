@@ -145,6 +145,11 @@ background-blend-mode: multiply;
 background-size: cover; (scales image, preserving ratio, the image is cropped)
 (leaves no empty space)
 
+CSS Lightbox::afterto display images
+
+Close Button: Lightboxes usually include a close button 
+or a way to exit the lightbox
+
 
 
 ---*/
